@@ -6,6 +6,6 @@ Final Demo Video:
 [![](https://markdown-videos-api.jorgenkh.no/youtube/GxOcw-LWz4o)](https://youtu.be/GxOcw-LWz4o)
 
 The project uses C++  with Arduino IDE.
-If you are interested in how I write this project, please browse my [ino file here]()
+If you are interested in how I write this project, please browse my [ino file here](https://github.com/yingqi955/HCI-embedded-design/blob/main/yingqi_final/ssd1306_128x64_i2c.ino)
 
 
